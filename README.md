@@ -64,5 +64,8 @@ We also sometimes use these tools:
 
 The robot control system is documented here: https://wpilib.screenstepslive.com/s/4485
 
+## Advanced topics
 
-
+#### Computer Vision
+- [OpenCV](http://docs.opencv.org/2.4/modules/refman.html), the Open Computer Vision library, used to give the robots sight.
+- [Projective Geometry](http://robotics.stanford.edu/~birch/projective/projective.html), the mathematical model behind many of OpenCV's operations.
