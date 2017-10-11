@@ -64,7 +64,8 @@ We also sometimes use these tools:
 
 ## Other resources
 
-The robot control system is documented here: https://wpilib.screenstepslive.com/s/4485
+- The robot control system is documented here: https://wpilib.screenstepslive.com/s/4485
+- The Talon SRX Software Manual is available as a pdf here: http://www.ctr-electronics.com/talon-srx.html#product_tabs_technical_resources
 
 ## Advanced topics
 
