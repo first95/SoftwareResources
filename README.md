@@ -30,6 +30,7 @@ We use the following software tools.  None of them cost money, so if you're aske
 - Eclipse, an Integrated Development Environment, to write Java code
 	- Download it here: http://www.eclipse.org/
 	- Complete instructions listed here: http://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java
+		- There's a really important part titled ["Installing the development plugins"](http://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java#Installing-the-development-plugins---Option-1:-Onl).  Make sure to do this part, or you won't be able to compile the code!
 		- You can skip any instructions labeled "For C++ teams"
 		- Your computer is probably 64-bit; choose "64 bit" whenever given the choice.- The FRC update suite, which contains resources that our code uses to control the robot
 	- Complete instructions are available here: http://wpilib.screenstepslive.com/s/4485/m/13810/l/599669-installing-the-frc-2017-update-suite-all-languages 
