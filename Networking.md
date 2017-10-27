@@ -39,7 +39,7 @@ IP addresses take on one of two formats:
 ## The Domain Name System
 Many people go their whole lives without knowing about IP addresses, because of a mechanism that prevents people and computers from needing to learn and remember the IP address of each computer.  When you type `google.com` into your web browser, your operating system queries a local [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) server.  The server then provides the IP address for `google.com`.  
 
-None of the robot networks include a DNS server.  Instead, a similar system called [mDNS](https://en.wikipedia.org/wiki/Multicast_DNS) is used.  Rather than ending in .com etc, mDNS addresses will typically end in .lan for IPv4, or .local for IPv6.
+None of the robot networks include a DNS server.  Instead, a similar system called [mDNS](https://en.wikipedia.org/wiki/Multicast_DNS) is used.  Rather than ending in .com etc, mDNS addresses will typically end in .lan for IPv4, or .local for IPv6.  In this system, computers ask all neighboring computers if they know which IP address corresponds to the given hostname.
 
 ## Useful tools
 - `ping` is a command on Windows, Mac, and Linux that will test communications with another computer.
