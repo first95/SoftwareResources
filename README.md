@@ -65,6 +65,7 @@ We also sometimes use these tools:
 
 ## Other resources
 - Some information on computer networking as used on the robot is available [here](Networking.md)
+- Instructions on how to configure the radio: https://wpilib.screenstepslive.com/s/4485/m/13503/l/144986-programming-your-radio-for-home-use 
 - The robot control system is documented here: https://wpilib.screenstepslive.com/s/4485
 - The Talon SRX Software Manual is available as a pdf here: http://www.ctr-electronics.com/talon-srx.html#product_tabs_technical_resources
 
