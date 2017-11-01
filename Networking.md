@@ -24,8 +24,8 @@ In tethered practice (used in the Pits), we connect an Ethernet cable to the rad
 Every network interface in our networks has an IP [(Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)) address.  You can think of this like the address of a house.  In almost all cases where two computers need to exchange information, the sender transmits packets addressed to the IP address of the destination.
 
 Unlike home addresses, computers often change their IP addresses.  Typically when a computer first connects to a network, it asks the network for an IP address, using a method called DHCP [(Dynamic Host configuration Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)).  In a typical network, one machine (the DHCP server) is configured to assign new computers their IP addresses.
-  - During a match, this computer is in the field control network
-  - During wireless or tethered practice, this computer is the robot radio
+  - During a match, the DHCP server is in the field control network
+  - During wireless or tethered practice, the DHCP server is the robot radio
 
 IP addresses take on one of two formats:
   - IPv4 addresses are 4 decimal integers between 0 and 255 separated by a dot, such as:
