@@ -1,6 +1,15 @@
 # Welcome
 This page provides resources and information to get started programming on FIRST Robotics Competition Team 95, The Grasshoppers.
 
+## Communicating with the team
+
+To join these, you may need to speak with a coach.
+
+- Our Slack: https://ghoppers.slack.com/
+- Our Github: https://github.com/first95/
+- Our mailing list: https://groups.google.com/forum/#!forum/first95
+- Our calendar: https://calendar.google.com/calendar/embed?src=team95.admin%40gmail.com&ctz=America%2FNew_York
+
 ## Learning Java
 
 We use a programming language called Java to tell the robot what to do.  
