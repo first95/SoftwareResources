@@ -13,6 +13,16 @@ These tutorials are also useful, but require you to have Java installed on your 
 - https://docs.oracle.com/javase/tutorial/java/index.html
 - http://www.java-made-easy.com/java-for-beginners.html
 
+## Connecting to the WiFi in the classroom
+
+- Find the Hartford High School root certificate authority file.  Ask a coach for it.
+- Right-click on the file and click "Install".  The Certificate Import Wizard should appear.
+- Click "Next".
+- Select "Place all certificates in the following store".
+- Click "browse".  Select "Trusted Root certification authorities" and click "ok".
+- Click "Next" and "yes" to all remaining prompts.
+- Tell your computer to connect to the WiFi.  Ask a coach for the username and password.
+- You will see a Windows Security alert, saying "The Credentials provided by the server could not be validated".  Click "connect" anyway.
 
 ## Getting your laptop set up
 
