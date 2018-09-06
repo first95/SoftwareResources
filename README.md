@@ -88,6 +88,7 @@ We also sometimes use these tools:
 - The robot control system is documented here: https://wpilib.screenstepslive.com/s/4485
 - The Talon SRX Software Manual is available as a pdf here: http://www.ctr-electronics.com/talon-srx.html#product_tabs_technical_resources
 - To view the RoboRIO Webdashboard, and from there be able to update the Talons' firmware: https://wpilib.screenstepslive.com/s/currentCS/m/cs_hardware/l/262266-roborio-webdashboard
+- We often use a control method known as a PID controller.  https://www.csimn.com/CSI_pages/PIDforDummies.html
 
 ## Advanced topics
 
