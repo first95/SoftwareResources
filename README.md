@@ -61,6 +61,8 @@ We use the following software tools.  None of them cost money, so if you're aske
 		- Please keep in mind that your username is visible to the world.  Your email address is the only piece of information that GitHub will keep private, so don't put anything up there that you don't want shared.
 		- Never put passwords in files, issues, or commit messages on GitHub
 	- Even without an account, anyone can see our code.  Take a look if you like:
+		- [2019](https://github.com/first95/FRC2019/)
+		- [2018](https://github.com/first95/FRC2018/)
 		- [2017](https://github.com/first95/FRC2017/)
 		- [2016](https://github.com/first95/FRC2016/)
 		- [2015](https://github.com/first95/LadyAda/)
