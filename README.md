@@ -71,6 +71,7 @@ We use the following software tools.  None of them cost money, so if you're aske
 	- You may need to create an Atlassian account to download the installer.  Alternatively, there's often someone on the team who has the file lying around, and can give it to you.
 	- Once you install SourceTree, give it the credentials for your GitHub account.  This will permit you to make changes to code stored on GitHub.
 	- Remember that anything you put in a file or commit message in SourceTree will normally become publicly visible on GitHub.
+	- We use the branching structure you see here: https://nvie.com/posts/a-successful-git-branching-model/
 - The CTRE Toolsuite, which includes libraries to communicate with parts on the robot (Specifically the Talon SRX)
 	- Download and install the most recent stable installer for the CTRE Toolsuite here: http://www.ctr-electronics.com/control-system/hro.html#product_tabs_technical_resources 
 
