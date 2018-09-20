@@ -7,6 +7,7 @@ This is a place that everyone can access where we can track information about th
 | CTC-17-ROBO-01  |  With team  | Standard for 2018 season, username: robotics  |  Lenovo P51  |  Intel i7 2.8 GHz, 16 GB RAM, 500 GB drive, Windows 10 Pro |  Fully loaded for programming season 2018 plus SOLIDWORKS  | Square plug, out 20V, 8.5 A  | No known issues; one of the two main programming computers for 2018 season |
 | WOB003285L  |  Lent to Nathan on 6/12/18 | On computer | Lenovo T440p  |  Intel i5 2.6 GHz, 16 GB RAM, 500 GB drive, Windows 7 Pro  | Fully loaded for programming season 2018  |  Square plug, out 20V, 3.25 A  |  No known issues  |
 | WOB003059L  |  With team | On computer | Lenovo T440p  |  Intel i5 2.6 GHz, 16 GB RAM, 500 GB drive, Windows 7 Pro  | Fully loaded for programming season 2018  |  Square plug, out 20V, 3.25 A  |  No known issues  |
+| CTC-14-SPARE  |  With team | On computer | Lenovo E540  |  Intel i5 2.5 GHz, 4 GB RAM, 500 GB drive, Windows 7 Pro  | Nothing loaded yet but has WiFi access  |  Square plug, out 20V, 2.25 A  |  No known issues  |
 
 Description of What We're Tracking
 - Name -- what is listed in System Properties, and should also (but isn't always) on a label on the computer itself
