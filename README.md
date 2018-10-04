@@ -22,6 +22,9 @@ These tutorials are also useful, but require you to have Java installed on your 
 - https://docs.oracle.com/javase/tutorial/java/index.html
 - http://www.java-made-easy.com/java-for-beginners.html
 
+If you want a fun application of Java, you can make robots and fight them -- your own, others, or example -- using RoboCode. You can find it here: https://robocode.sourceforge.io/  Download the jar, and the only other thing you need is the JDK (Java Dev Kit) or JRE (Java Runtime Environment).
+- Note, if you have problems compiling where it says it succeeded but is 0 bytes, you may need to follow the information at the following link to add the JDK or JRE to your system path: http://robowiki.net/wiki/Robocode/System_Requirements#PATH_must_be_set
+
 ## Connecting to the WiFi in the classroom
 
 - Find the Hartford High School root certificate authority file.  Ask a coach for it.
