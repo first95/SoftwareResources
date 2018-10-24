@@ -55,6 +55,7 @@ We use the following software tools.  None of them cost money, so if you're aske
 		- After you install Eclipse, it's easy to forget the part of the tutorial titled ["Installing the development plugins"](http://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java#Installing-the-development-plugins---Option-1:-Onl).  Make sure to do this part, or you won't be able to compile the code!
 		- You can skip any instructions labeled "For C++ teams"
 		- Your computer is probably 64-bit; choose "64 bit" whenever given the choice.- The FRC update suite, which contains resources that our code uses to control the robot
+		- If you have complaints about not finding the package org.blah.... instead of src.org.blah..., check that you have some key WPILIB libraries in your build path.  See https://www.chiefdelphi.com/forums/showthread.php?t=132343  This can also happen when you add a new project (e.g. FRC2019) because build paths are specific to a given project.
 	- Complete instructions are available here: http://wpilib.screenstepslive.com/s/4485/m/13810/l/599669-installing-the-frc-2017-update-suite-all-languages 
 
 	- You may need to create a National Instruments account to download the update suite.  Alternatively, there's often someone on the team who has the file lying around, and can give it to you.
