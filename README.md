@@ -25,6 +25,10 @@ These tutorials are also useful, but require you to have Java installed on your 
 If you want a fun application of Java, you can make robots and fight them -- your own, others, or example -- using RoboCode. You can find it here: https://robocode.sourceforge.io/  Download the jar, and the only other thing you need is the JDK (Java Dev Kit) or JRE (Java Runtime Environment).
 - Note, if you have problems compiling where it says it succeeded but is 0 bytes, you may need to follow the information at the following link to add the JDK or JRE to your system path, and then run Compiler --> Options --> Reset Compiler in RoboCode's editor: http://robowiki.net/wiki/Robocode/System_Requirements#PATH_must_be_set
 
+## Learn the Basics of FRC Robotics with Java
+
+Team 3255 has made a tutorial including accompanying PDF/slides and code for learning the basics of programming an FRC robot with Java. The main page is [here](https://github.com/FRCTeam3255/FRC-Java-Tutorial). The PDF slides are [here](https://github.com/FRCTeam3255/FRC-Java-Tutorial/raw/master/FRC%20Programming%20Tutorial%20VSC.pdf). Note that the slides are not complete and don't include everything shown in the outline, but they're a nice start with background info like a brief description of the RoboRio, the sensors commonly used, and some high-level info on Java, in addition to detailed info on how to make a basic driving robot. You can also access/download several versions of their code to try it out or compare it to what you make based on their PDF instructions -- see the README on the main page for links to that code.
+
 ## Connecting to the WiFi in the classroom
 
 - Find the Hartford High School root certificate authority file.  Ask a coach for it.
