@@ -46,23 +46,19 @@ If you have a personal laptop, it's great to use it for programming the robot.  
 
 We use the following software tools.  None of them cost money, so if you're asked for payment at any point, you've reached the wrong place.
 
-- The Java Developer Kit (JDK)
+- The Java Developer Kit (JDK) ** Lindsay: I think the desired version of Java is now provided with the rest of the FIRST tools so I don't think this needs to be done separately. If you wish to do it separately, version 11 is probably the right one so do similar to below but for that version. **
 	- Java's naming convention is confusing.  What you want to download is the JDK for Java SE, version 8.  Version 9 is not yet supported on the robot, as of 2017.  Java versions often look like "8u144", which just means the 144th update to Java 8.
 	- Download here: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 		- Go to the Java SE 8 section (it'll be labeled something like "Java SE 8u144")
 		- Click "[download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)" under the "JDK" section
 		- Click "Accept License Agreement"
 		- Click "[Windows x64](http://download.oracle.com/otn-pub/java/jdk/8u144-b01/090f390dda5b47b9b721c7dfaa008135/jdk-8u144-windows-x64.exe)", unless you know otherwise
-- Eclipse, an Integrated Development Environment, to write Java code
-	- Download it here: http://www.eclipse.org/
+- All of the FIRST software and files
+	- Copy the directory "2020 Offline Install Prep" from the Wall USB drive
+	- Follow the instructions here: https://docs.wpilib.org/en/latest/
 	- Complete instructions listed here: http://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java
-		- After you install Eclipse, it's easy to forget the part of the tutorial titled ["Installing the development plugins"](http://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java#Installing-the-development-plugins---Option-1:-Onl).  Make sure to do this part, or you won't be able to compile the code!
 		- You can skip any instructions labeled "For C++ teams"
 		- Your computer is probably 64-bit; choose "64 bit" whenever given the choice.- The FRC update suite, which contains resources that our code uses to control the robot
-		- If you have complaints about not finding the package org.blah.... instead of src.org.blah..., check that you have some key WPILIB libraries in your build path.  See https://www.chiefdelphi.com/forums/showthread.php?t=132343  This can also happen when you add a new project (e.g. FRC2019) because build paths are specific to a given project.
-	- Complete instructions are available here: http://wpilib.screenstepslive.com/s/4485/m/13810/l/599669-installing-the-frc-2017-update-suite-all-languages 
-
-	- You may need to create a National Instruments account to download the update suite.  Alternatively, there's often someone on the team who has the file lying around, and can give it to you.
 - GitHub, a website for a Software Version Control system called git
 	- This website.
 	- Make an account, and email your username to one of the programming coaches.  He or she will add you to the team's account, so that you can edit code stored here.
