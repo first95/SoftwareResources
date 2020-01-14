@@ -4,7 +4,7 @@ To update all firmware on the robot, follow this procedure:
 - Make sure the following software is installed on your laptop:
     - WpiLib
     - [Phoenix Framework](http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources)
-    - Rev Roborics SparkMax client
+    - [Rev Roborics SparkMax client](https://www.revrobotics.com/sparkmax-software/)
 - Download and unzip the latest Talon SRX firmware here: http://www.ctr-electronics.com/control-system/motor-control/talon-srx.html#product_tabs_technical_resources
 - Power on your robot, connect an Ethernet cable, and turn off your WiFi.
 - Run the "RoboRIO imaging tool", which was installed with WpiLib.  It'll likely be a link on your desktop.
@@ -18,4 +18,4 @@ To update all firmware on the robot, follow this procedure:
     - Select a Talon SRX from the list.
     - Check the box labeled "Update all Talon SRX devices"
     - Click "Update device".  Process should take a few minutes.
-    
+- Instructions on updating the SparkMax controllers via SparkMax client to come...    
