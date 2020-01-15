@@ -18,4 +18,4 @@ To update all firmware on the robot, follow this procedure:
     - Select a Talon SRX from the list.
     - Check the box labeled "Update all Talon SRX devices"
     - Click "Update device".  Process should take a few minutes.
-- Instructions on updating the SparkMax controllers via SparkMax client to come... [Firmware link](https://www.revrobotics.com/sparkmax-software/)
+- Instructions on updating the SparkMax controllers via SparkMax client to come... [Firmware link](https://www.revrobotics.com/sparkmax-software/). Make sure to run this client as an administrator; otherwise you'll get errors.
