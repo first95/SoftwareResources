@@ -2,6 +2,7 @@
 
 To update all firmware on the robot, follow this procedure:
 - Pull the latest code from github
+- Build the code in VSCode while connected to the internet
 - Make sure the following software is installed on your laptop:
     - WpiLib
     - [Phoenix Framework](http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources)
