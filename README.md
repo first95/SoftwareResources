@@ -65,6 +65,7 @@ We use the following software tools.  None of them cost money, so if you're aske
 		- Please keep in mind that your username is visible to the world.  Your email address is the only piece of information that GitHub will keep private, so don't put anything up there that you don't want shared.
 		- Never put passwords in files, issues, or commit messages on GitHub
 	- Even without an account, anyone can see our code.  Take a look if you like:
+		- [2020](https://github.com/first95/FRC2020/)
 		- [2019](https://github.com/first95/FRC2019/)
 		- [2018](https://github.com/first95/FRC2018/)
 		- [2017](https://github.com/first95/FRC2017/)
@@ -93,9 +94,8 @@ We also sometimes use these tools:
 - Some information on computer networking as used on the robot is available [here](Networking.md)
 - Instructions on how to upgrade robot firmware are [here](robot_firmware.md)
 - Instructions on how to configure the radio: https://wpilib.screenstepslive.com/s/4485/m/13503/l/144986-programming-your-radio-for-home-use Note that the WiFi must be disabled, really disabled.  Go to Control Panel ->Network and Sharing Center -> Network Connections. Then right click on the Wi-Fi interface and make sure you select "Disable".  Then from a command line run 'netsh interface show interface' and it should show Admin State as Disabled for WiFi.  This info is courtesy of the response from coach_zac in this thread https://www.chiefdelphi.com/forums/showthread.php?t=141688  In configuration screen, put in team name, robot name, limit BW, and no firewall.
-- The robot control system is documented here: https://wpilib.screenstepslive.com/s/4485
+- The robot control system is documented here: https://docs.wpilib.org/en/latest/
 - The Talon SRX Software Manual is available as a pdf here: http://www.ctr-electronics.com/talon-srx.html#product_tabs_technical_resources
-- To view the RoboRIO Webdashboard, and from there be able to update the Talons' firmware: https://wpilib.screenstepslive.com/s/currentCS/m/cs_hardware/l/262266-roborio-webdashboard
 - We often use a control method known as a PID controller.  https://www.csimn.com/CSI_pages/PIDforDummies.html
 
 ## Advanced topics
