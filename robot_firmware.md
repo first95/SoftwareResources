@@ -17,7 +17,7 @@ To update all firmware on the robot, follow this procedure:
     - Click "Update".  This should be under 10 minutes.
 - Deploy code to the robot.  (This is required for the next step to work.)
 - Open the Phoenix Tuner (came with Phoenix Framework)
-    - Connect to the robot.  
+    - Type in the robot's address (eg 10.0.95.2)
     - Open the "CAN Devices" tab.  You should see a listing of all Talon SRX's and their firmware revision numbers.
     - Under the box labeled "Field-Upgrade Device Firmware", click "..." and browse to the unzipped Talon SRX firmware (a *.crf file)
     - Select a Talon SRX from the list.
