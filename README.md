@@ -103,3 +103,4 @@ We also sometimes use these tools:
 #### Computer Vision
 - [OpenCV](http://docs.opencv.org/2.4/modules/refman.html), the Open Computer Vision library, used to give the robots sight.
 - [Projective Geometry](http://robotics.stanford.edu/~birch/projective/projective.html), the mathematical model behind many of OpenCV's operations.
+- [Kalman filters](https://www.intechopen.com/books/introduction-and-implementations-of-the-kalman-filter/introduction-to-kalman-filter-and-its-applications)
